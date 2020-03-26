@@ -1,0 +1,41 @@
+.step {
+    margin: 25px 15% 10px;
+    white-space: pre;
+}
+
+.out-border {
+    width: 80%;
+    margin: 10px auto;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #A0A0A0;
+}
+
+h3 {
+    margin: 30px 10% 10px;
+}
+
+.reject {
+    margin: 0 15% 30px;
+    width: 75px;
+    height: 35px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    margin-right: 20px;
+    font-size: 15px;
+}
+
+.pass {
+    width: 75px;
+    height: 35px;
+    background-color: deepskyblue;
+    border-radius: 10px;
+    font-size: 15px;
+}
+
+.reason {
+    width: 100%;
+    height: 130px;
+    border-width: 0;
+    resize: none;
+}

@@ -1,0 +1,55 @@
+#MyForm {
+    margin: auto;
+    font-size: 16px;
+}
+
+#MyForm #form {
+    width: 800px;
+    margin: auto;
+}
+
+#MyForm table {
+    margin-top: 0;
+}
+
+#MyForm .necessary {
+color: red;
+}
+
+#MyForm select {
+    border: 1px #000000 solid;
+    width: 300px;
+    height: 30px;
+}
+
+#MyForm input {
+    width: 300px;
+    height: 30px;
+}
+
+#MyForm .t-left {
+    width: 200px;
+}
+
+#MyForm .bottom {
+    width: 700px;
+}
+
+#MyForm ::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+    color: #cbcbcb;
+}
+
+#MyForm .t-right :hover {
+    border: 1px deepskyblue solid;
+}
+
+#MyForm .line {
+    display: block;
+    width: 700px;
+    height: 1px;
+    background-color: #cbcbcb;
+}
+
+#MyForm .tag {
+    color: #cbcbcb;
+}

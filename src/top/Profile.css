@@ -1,0 +1,28 @@
+#profile {
+    position: absolute;
+    top: 5px;
+    right: 100px;
+    font-size: 16px;
+    width: 200px;
+}
+
+#avatar {
+    position: absolute;
+    right: 100px;
+}
+
+#avatar img {
+    border-radius: 25px;
+}
+
+#username {
+    position: absolute;
+    top: 0;
+    left: 120px;
+}
+
+#role {
+    position: absolute;
+    top: 30px;
+    left: 120px;
+}

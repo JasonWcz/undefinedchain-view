@@ -1,0 +1,21 @@
+#nav {
+    font-size: 20px;
+    color: #FFFFFF;
+    background-color: #102239;
+    width: 150px;
+    height: calc(100% - 67px);
+    float: left;
+    border-top: #f6fef2 1px solid;
+    padding: 30px 20px;
+    user-select: none;
+}
+
+li {
+    padding: 5px;
+    cursor: pointer;
+}
+
+#nav a {
+    text-decoration: none;
+    color: #FFFFFF;
+}

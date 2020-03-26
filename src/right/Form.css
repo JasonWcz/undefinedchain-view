@@ -1,0 +1,55 @@
+#form table {
+    width: 700px;
+    margin: 50px auto;
+    font-weight: bold;
+    border-spacing: 0;
+}
+
+#form tr {
+    display: block;
+    margin: 40px 0;
+}
+
+#form input {
+    width: 500px;
+    height: 20px;
+    border: #000000 1px solid;
+}
+
+#form .t-left {
+    width: 100px;
+    text-align: right;
+}
+#form .t-right {
+    width: 510px;
+    text-align: left;
+}
+
+#form #remark {
+    width: 500px;
+    height: 100px;
+    border: #000000 1px solid;
+    resize: none;
+}
+
+#form #certificate {
+    width: 500px;
+    height: 100px;
+    border: #000000 1px dashed;
+}
+
+#form #back {
+    width: 80px;
+    height: 40px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    margin-right: 10%;
+    margin-left: 33%;
+}
+
+#form #submit {
+    width: 80px;
+    height: 40px;
+    background-color: deepskyblue;
+    border-radius: 10px;
+}

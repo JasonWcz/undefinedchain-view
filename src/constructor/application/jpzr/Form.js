@@ -1,0 +1,43 @@
+import React, { Component } from "react";
+import "../../../right/Form.css"
+
+class Form extends Component {
+
+    render() {
+        return(
+            <div id="form">
+                <form>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td className="t-left">转让金额：</td>
+                                <td className="t-right"><input type="text" placeholder="元" /></td>
+                            </tr>
+                            <tr>
+                                <td className="t-left">接收企业：</td>
+                                <td className="t-right"><input type="text" /></td>
+                            </tr>
+                            <tr>
+                                <td className="t-left">操作人：</td>
+                                <td className="t-right">张三</td>
+                            </tr>
+                            <tr>
+                                <td className="t-left">备注：</td>
+                                <td className="t-right"><textarea id="remark"></textarea></td>
+                            </tr>
+                            <tr>
+                                <td className="t-left">证明材料：</td>
+                                <td className="t-right"><input type="file" id="certificate" /></td>
+                            </tr>
+                            <input type="button" value="返回" id="back" />
+                            <input type="submit" value="提交" id="submit" />
+                        </tbody>
+                    </table>
+                </form>
+            </div>
+        );
+    }
+
+}
+
+export default Form;

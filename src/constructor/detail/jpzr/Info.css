@@ -1,0 +1,27 @@
+.out-border{
+    width:80%;
+    margin:10px auto;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #A0A0A0;
+}
+
+h3{
+    margin: 30px 10% 10px;
+}
+
+table{
+    margin: 25px 10%;
+}
+
+.t-left {
+    width: 100px;
+    height:28px;
+    text-align: right;
+    font-size: 14px;
+}
+.t-right {
+    width: 300px;
+    text-align: left;
+    font-size: 14px;
+}

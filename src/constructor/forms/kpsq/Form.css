@@ -1,0 +1,151 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+#jpyw_form
+{
+    border: 1px solid white;
+    width: 100%;
+}
+
+header
+{
+    width: 100%;
+    height: 30px;
+}
+
+#apply0{
+    width: 80px;
+    height: 32px;
+    background-color: #1890ff;
+    color: white;
+    border-radius: 5px;
+    border-style: none;
+    font-size: 15px;
+    line-height: 32px;
+    text-align: center;
+    margin-left: 80px;
+    margin-right: 20px;
+    float: left;
+}
+
+#jpsearch0
+{
+    width: 350px;
+    float: left;
+    position: relative;
+}
+
+#jpvalue0{
+    width: 300px;
+    line-height: 30px;
+    border-radius: 5px;
+    padding-left: 35px;
+    margin-left: 0px;
+}
+
+#icon0{
+    width: 20px;
+    height: 20px;
+    margin-top: 8px;
+    margin-left: 8px;
+    position: absolute;
+}
+
+.jpyw_table 
+{
+    border-collapse: collapse;          
+    text-align: left;    
+    line-height: 1.5;
+    margin: 30px 5%;
+}        
+
+table td, table th        
+{            
+    border-bottom: 1px solid #e8e8e8;            
+    color: #666; 
+    padding:10px 10px;   
+    width: 10%;   
+}    
+
+table td a
+{
+    color: #1890ff; 
+}
+
+table thead th        
+{            
+    background-color:#fafafa;                 
+}  
+
+.bottom
+{
+    width: 100%;
+    height: 35px;
+    margin-left: 80px;
+    padding-top: 20px;
+    padding-left: 550px;
+}
+
+.pagenum
+{
+    float: left;
+    margin-top: 5px;
+}
+
+.total
+{
+    margin: 0 8px;
+}
+
+.bottom ul
+{
+    float: left;
+}
+
+.bottom ul li
+{
+    width: 32px;
+    height: 32px;
+    margin-left: 8px;
+    float: left;
+    padding: 0px;
+}
+
+.bottom ul li.symbol
+{
+    width: 15px;
+    margin-left: 15px;
+}
+
+.bottom ul li a
+{
+    width: 32px;
+    height: 32px;
+    display: block;
+    color: black;
+    border: 1px solid #e8e8e8;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 32px;
+}
+
+.word
+{
+    margin: 5px 10px;
+    float: left;
+}
+
+.search_page
+{
+    width: 60px;
+    height: 30x;
+    line-height: 30px;
+    text-align: center;
+    border-style: none;
+    border: 1px solid #e8e8e8;  
+    border-radius: 5px;          
+    color: #666; 
+}

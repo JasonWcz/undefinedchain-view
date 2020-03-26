@@ -1,0 +1,34 @@
+.step {
+    margin: 25px 15% 10px;
+    white-space: pre;
+}
+
+.out-border {
+    width: 80%;
+    margin: 10px auto;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #A0A0A0;
+}
+
+h3 {
+    margin: 30px 10% 10px;
+}
+
+.sign {
+    margin: 0 15% 30px;
+    width: 75px;
+    height: 35px;
+    background-color: deepskyblue;
+    border-radius: 10px;
+    font-size: 15px;
+}
+
+.again {
+    margin: 0 15% 30px;
+    width: 75px;
+    height: 35px;
+    background-color: deepskyblue;
+    border-radius: 10px;
+    font-size: 15px;
+}

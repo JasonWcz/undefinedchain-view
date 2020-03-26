@@ -1,0 +1,14 @@
+.items li {
+    padding: 0;
+}
+
+.link {
+    font-size: 16px;
+    width: 110px;
+    height: 30px;
+    padding: 5px 0 26px 20px;
+    display: block;
+}
+.items li :hover {
+    background-color: deepskyblue;
+}

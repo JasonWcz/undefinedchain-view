@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0aeca05-83c7-412c-821f-de5359bec374" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1W9KC2bDWmt5erOSlZH1aVcnF1U" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/factor" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/factor" />
+      <recent name="$PROJECT_DIR$/src/constructor/detail/jpzr" />
+      <recent name="$PROJECT_DIR$/src/constructor/detail" />
+      <recent name="$PROJECT_DIR$/src/factor/detail/jprz" />
+      <recent name="$PROJECT_DIR$/src/factor/detail/kpsq" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/builder/detail/kpsq" />
+      <recent name="$PROJECT_DIR$/src/constructor-wait-sign" />
+      <recent name="$PROJECT_DIR$/src/constructor-wait-secondtrial" />
+      <recent name="$PROJECT_DIR$/src/constructor-wait-firsttrial" />
+      <recent name="$PROJECT_DIR$/src/constructorapply-3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0aeca05-83c7-412c-821f-de5359bec374" name="Default Changelist" comment="" />
+      <created>1578556239481</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578556239481</updated>
+      <workItem from="1578556241595" duration="40890000" />
+      <workItem from="1578914650390" duration="5027000" />
+      <workItem from="1578924722417" duration="3281000" />
+      <workItem from="1578980486814" duration="10246000" />
+      <workItem from="1579090739378" duration="10159000" />
+      <workItem from="1579138868456" duration="4607000" />
+      <workItem from="1582017356879" duration="233000" />
+      <workItem from="1582181030585" duration="1634000" />
+      <workItem from="1582183231130" duration="349000" />
+      <workItem from="1582763937472" duration="106000" />
+      <workItem from="1582789409256" duration="4104000" />
+      <workItem from="1582854723843" duration="15293000" />
+      <workItem from="1582898757841" duration="1570000" />
+      <workItem from="1582940547616" duration="8177000" />
+      <workItem from="1582987773111" duration="2221000" />
+      <workItem from="1583911276452" duration="4476000" />
+      <workItem from="1584173215439" duration="11647000" />
+      <workItem from="1584283462017" duration="73000" />
+      <workItem from="1585096396571" duration="1157000" />
+      <workItem from="1585098162347" duration="1564000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579139479847">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1579139479847" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1585100532840">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1585100532840" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1585100532840">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1585100532840" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1585100532839">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1585100532839" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1585100532840">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1585100532840" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1579091329661">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1579091329661" />
+  </component>
+</project>
